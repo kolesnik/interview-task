@@ -8,8 +8,6 @@ Task description:
    - Selecting/unselecting options updates the Selected list.
    - Checkboxes reflect the selected state (controlled inputs).
    - Clear button empties the selected list.
-   - No infinite re-rendering.
-   - Keys are used correctly in lists.
 
 2. Implement the function getSelectedLabels in src/utils/getSelectedLabels.js:
    - It should return an array of labels from the selected array.
