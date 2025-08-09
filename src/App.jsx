@@ -1,6 +1,6 @@
 // Interview task: Mini Targeting Panel (buggy)
 /*
-README (short)
+README
 
 Task description:
 1. Fix the bugs in this mini app so that:
